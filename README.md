@@ -1,2 +1,2 @@
 # university_project
-white_cane_arduino
+white_cane
